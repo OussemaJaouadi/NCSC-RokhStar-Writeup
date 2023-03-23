@@ -1,4 +1,4 @@
-# TNCSC CTF :
+# NCSC CTF :
 > **@Ou_sama**
 <hr>
 
