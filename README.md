@@ -14,4 +14,4 @@
 * [Out.txt](./out.txt)
  
 
-### [Solver](./solver.py)
+### [Solver](./solver.ipynb)
